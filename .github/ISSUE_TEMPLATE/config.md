@@ -1,7 +1,7 @@
 ---
 name: ⚙️ Config
 about: Alteração ou adição de configuração no projeto
-title: "config: "
+title: "Config: "
 labels: configuration
 assignees: ''
 ---
