@@ -1,7 +1,7 @@
 ---
 name: 📝 Docs
 about: Alteração ou adição de documentação
-title: "docs: "
+title: "Docs: "
 labels: documentation
 assignees: ''
 ---
