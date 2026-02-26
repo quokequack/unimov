@@ -1,7 +1,7 @@
 ---
 name: 🎨 Style
 about: Mudança ou adição relacionada ao design/estilo
-title: "style: "
+title: "Style: "
 labels: style
 assignees: ''
 ---
